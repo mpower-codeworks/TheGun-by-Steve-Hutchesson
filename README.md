@@ -5,12 +5,13 @@ Here, it features a new setup utility that allows font-size
 changing.
 
 <img src="images/thegun.jpg" align="left" width="30%" alt="TheGun">
+
 There was one thing I wanted to address with TheGun for my
 own personal use: the fonts were too small. I'd already
 experimented much in
 [Dave's Tiny Editor](https://github.com/mpower-codeworks/Daves-Tiny-Editor)
 with fonts, and figured similar could be done here. The whole idea for
-`DTE` to have a setup utility came from TheGun anyway.<br><br>
+`DTE` to have a setup utility came from TheGun anyway.<br>
 
 This is version `3.0f` of Steve's TheGun, unchanged except for a
 small font-size patch.. The new setup utility only exposes something
