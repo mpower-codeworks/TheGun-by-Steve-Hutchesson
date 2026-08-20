@@ -11,8 +11,9 @@ experimented much in
 with fonts, and figured similar could be done here. The whole idea for
 `DTE` to have a setup utility came from TheGun anyway.
 
-This is version `3.0f` of Steve's TheGun, unchanged. The new setup utility
-only exposes something TheGun already had, because it uses RICHEDIT.
+This is version `3.0f` of Steve's TheGun, unchanged except for a few bytes for
+font sizes. The new setup utility only exposes something TheGun already had,
+because it uses RICHEDIT.
 
 <br clear="left"><br>
 
