@@ -11,10 +11,14 @@ experimented much in
 with fonts, and figured similar could be done here. The whole idea for
 `DTE` to have a setup utility came from TheGun anyway.
 
-<img src="images/startup.jpg" align="left" width="20%" alt="Setup Utility"><br>
+<br clear="left"><br>
+
+<img src="images/startup.jpg" align="left" width="20%" alt="Setup Utility">
 
 This is version `3.0f` of Steve's TheGun, unchanged. The new setup utility
 only adds something TheGun already had, because it uses RICHEDIT.
+
+<br clear="left"><br>
 
 I'm not going to include the source code for the setup utility because
 it's not important. The point is to make TheGun more available (most download
