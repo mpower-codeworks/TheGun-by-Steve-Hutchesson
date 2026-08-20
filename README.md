@@ -23,6 +23,7 @@ it's not important. The point is to make TheGun more available (most download
 links are broken or dubious) and update the fonts for modern larger screens.
 
 Yes, I added a space in `The Gun` in the setup utility. I just felt like it.
+<br><br><br><br>
 
 ## Per Steve Hutchesson
 From the archive of `http://www.movsd.com/thegun.htm`:
