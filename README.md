@@ -16,7 +16,7 @@ This is version `3.0f` of Steve's TheGun, unchanged except except for a
 small font-size patch.. The new setup utility only exposes something
 TheGun already had, because it uses RICHEDIT.
 
-<br clear="left"><br>
+<br clear="left">
 
 <img src="images/startup.jpg" align="left" width="20%" alt="Setup Utility">
 
