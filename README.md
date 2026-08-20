@@ -12,7 +12,7 @@ experimented much in
 with fonts, and figured similar could be done here. The whole idea for
 `DTE` to have a setup utility came from TheGun anyway.<br><br>
 
-This is version `3.0f` of Steve's TheGun, unchanged except except for a
+This is version `3.0f` of Steve's TheGun, unchanged except for a
 small font-size patch.. The new setup utility only exposes something
 TheGun already had, because it uses RICHEDIT.
 
