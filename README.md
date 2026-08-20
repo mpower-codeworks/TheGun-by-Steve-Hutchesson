@@ -22,7 +22,10 @@ I'm not going to include the source code for the setup utility because
 it's not important. The point is to make TheGun more available (most download
 links are broken or dubious) and update the fonts for modern larger screens.
 
-Per Steve Hutchesson from the archive of `http://www.movsd.com/thegun.htm`:
+Yes, I added a space in `The Gun` in the setup utility. I just felt like it.
+
+## Per Steve Hutchesson
+From the archive of `http://www.movsd.com/thegun.htm`:
 
 Version 3.0f has had minor internal changes and has taken advantage of the technology of a new linker written by Pelle Orinius to bring it down to its preferred size of 6k (6144 bytes). TheGun from its origin was designed to be useful within the boundaries of minimum size, high speed performance and no useless features. Its original purpose was to dump results from a compiler or an assembler build into for display which demanded near instant load.
 
@@ -35,5 +38,3 @@ TheGun does not have an effective file size limit and the maximum size that can 
 Printing is a low priority issue with a text editor of this type and the capacity it has is farmed out to the system file Wordpad.Exe. The margin settings are those that are set in Wordpad.
 
 TheGun still maintains its size and speed advantage over the system Notepad.Exe so if these are issues that, Number One Son will do the job for you "just fine".
-
-Yes, I added a space in `The Gun` in the setup utility. I just felt like it.
