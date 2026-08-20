@@ -2,7 +2,9 @@
 Running the new configuration tool on TheGun can trigger AntiMalware warnings,
 and Windows Defender may delete TheGun.exe after making changes. Unfortunately,
 this means I have to recommend you to not use it. The problem is that TheGun.exe
-is already compressed, and any further modifications look suspicious to Defender.
+is already compressed, and modifying the packed executable appears to trigger
+Defender's heuristics on some systems. Windows 10 in my case, while Windows 11
+works fine. Sorry. Any suggestions would be appreciated.
 
 ## TheGun-by-Steve-Hutchesson
 
