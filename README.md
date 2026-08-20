@@ -1,3 +1,9 @@
+## 2026-08-20 WARNING:
+Running the new configuration tool on TheGun can trigger AntiMalware warnings,
+and Windows Defender may delete TheGun.exe after making changes. Unfortunately,
+this means I have to recommend you to not use it. The problem is that TheGun.exe
+is already compressed, and any further modifications look suspicious to Defender.
+
 ## TheGun-by-Steve-Hutchesson
 
 TheGun by Steve Hutchesson. This gem can be hard to find.
