@@ -28,6 +28,12 @@ Yes, I added a space in `The Gun` in the setup utility. I just felt like it.
 ## Per Steve Hutchesson
 From the archive of `http://www.movsd.com/thegun.htm`:
 
+Number One Son
+
+TheGun.Exe 3.0f
+
+21st Century Missile Ware
+
 Version 3.0f has had minor internal changes and has taken advantage of the technology of a new linker written by Pelle Orinius to bring it down to its preferred size of 6k (6144 bytes). TheGun from its origin was designed to be useful within the boundaries of minimum size, high speed performance and no useless features. Its original purpose was to dump results from a compiler or an assembler build into for display which demanded near instant load.
 
 TheGun does not use any additional runtime DLLs and is coded in Microsoft Assembler (MASM) using the Windows API functions.. It does not use or write to the registry at all and will run on Windows versions from Win95b upwards. In common with the last version, it uses a very high speed dispatcher internally for system message processing, it now tests for read only files and handles the XP style of file dialog correctly. It uses an extended version of the system "MessageBox" to display various forms of information.
