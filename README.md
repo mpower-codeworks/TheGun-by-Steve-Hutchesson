@@ -21,7 +21,9 @@ Number One Son
 
 TheGun.Exe 3.0f
 
-21st Century Missile Ware
+<br><br>
+
+`21st Century Missile Ware`
 
 Version 3.0f has had minor internal changes and has taken advantage of the technology of a new linker written by Pelle Orinius to bring it down to its preferred size of 6k (6144 bytes). TheGun from its origin was designed to be useful within the boundaries of minimum size, high speed performance and no useless features. Its original purpose was to dump results from a compiler or an assembler build into for display which demanded near instant load.
 
