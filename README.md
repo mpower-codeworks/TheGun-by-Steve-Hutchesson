@@ -13,13 +13,13 @@ changer on request.
 
 <img src="images/setgun.jpg" align="left" width="25%" alt="SetGun">
 
-<b>Per Steve Hutchesson</b>
+<b>`Per Steve Hutchesson`</b>
 
-From the archive of `http://www.movsd.com/thegun.htm`:
+`From the archive of` `http://www.movsd.com/thegun.htm`:
 
-Number One Son
+`Number One Son`
 
-TheGun.Exe 3.0f
+`TheGun.Exe 3.0f`
 
 <br><br>
 
