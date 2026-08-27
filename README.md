@@ -4,9 +4,12 @@ TheGun by Steve Hutchesson. This gem can be hard to find.
 
 <img src="images/thegun.jpg" align="left" width="30%" alt="TheGun">
 
-This is version `3.0f` of TheGun. SetGun is included. <br>There is no known copy of the source code.
+This is version `3.0f` of TheGun. SetGun is included.<br>There is no known copy of the source code.<br><br>
+The larger editor font seen here was changed by me<br>with a new SetGun, which is not included. <br><br>This is
+Steve's original `3.0f` untouched - at his preferred<br>byte-size, which is important. I will offer the font-size<br>
+changer on request.
 
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 <img src="images/setgun.jpg" align="left" width="25%" alt="SetGun">
 
