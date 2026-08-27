@@ -9,7 +9,7 @@ The larger editor font seen here was changed by me<br>with a new SetGun, which i
 Steve's original `3.0f` untouched - at his preferred<br>byte-size, which is important. I will offer the font-size<br>
 changer on request.
 
-<br><br>
+<br>
 
 <img src="images/setgun.jpg" align="left" width="25%" alt="SetGun">
 
