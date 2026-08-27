@@ -1,6 +1,6 @@
 ## TheGun-by-Steve-Hutchesson
 
-TheGun by Steve Hutchesson. This gem can be hard to find.
+TheGun by Steve Hutchesson. This gem can be hard to find. 21st Century Missile Ware.
 
 <img src="images/thegun.jpg" align="left" width="30%" alt="TheGun">
 
