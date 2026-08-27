@@ -6,7 +6,7 @@ TheGun by Steve Hutchesson. This gem can be hard to find.
 
 This is version `3.0f` of TheGun. SetGun is included. <br>There is no known copy of the source code.
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <img src="images/setgun.jpg" align="left" width="25%" alt="SetGun">
 
