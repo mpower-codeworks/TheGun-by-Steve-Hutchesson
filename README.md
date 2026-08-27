@@ -4,7 +4,7 @@ TheGun by Steve Hutchesson. This gem can be hard to find.
 
 <img src="images/thegun.jpg" align="left" width="30%" alt="TheGun">
 
-This is version `3.0f` of TheGun. SetGun is included. There is no known copy of the source code.
+This is version `3.0f` of TheGun. SetGun is included. <br>There is no known copy of the source code.
 
 <br><br><br><br><br><br><br><br><br>
 
