@@ -6,10 +6,11 @@ TheGun by Steve Hutchesson. This gem can be hard to find.
 
 This is version `3.0f` of TheGun. SetGun is included. There is no known copy of the source code.
 
-<img src="images/setgun.jpg" align="right" width="25%" alt="SetGun">
-
 <br><br><br><br><br><br><br><br><br>
-## Per Steve Hutchesson
+
+<img src="images/setgun.jpg" align="left" width="25%" alt="SetGun">
+
+<b>Per Steve Hutchesson</b>
 
 From the archive of `http://www.movsd.com/thegun.htm`:
 
