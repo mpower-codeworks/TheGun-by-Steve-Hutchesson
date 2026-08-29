@@ -2,6 +2,9 @@
 
 TheGun by Steve Hutchesson. This gem can be hard to find. `21st Century Missile Ware`.
 
+You may also like [QED](https://github.com/mpower-codeworks/Quick-Editor-QED-by-Steve-Hutchesson),
+a more advanced text editor, also written by Steve.
+
 <img src="images/thegun.jpg" align="left" width="300" alt="TheGun">
 
 This is version `3.0f` of TheGun. SetGun is included.<br>There is no known copy of the source code.<br><br>
