@@ -2,7 +2,7 @@
 
 TheGun by Steve Hutchesson. This gem can be hard to find. `21st Century Missile Ware`.
 
-<img src="images/thegun.jpg" align="left" width="30%" alt="TheGun">
+<img src="images/thegun.jpg" align="left" width="300" alt="TheGun">
 
 This is version `3.0f` of TheGun. SetGun is included.<br>There is no known copy of the source code.<br><br>
 The larger editor font seen here was changed by me<br>with a new SetGun, which is not included. <br><br>This is
